@@ -7,10 +7,9 @@ require (
 	github.com/coreos/bbolt v1.3.2 // indirect
 	github.com/coreos/pkg v0.0.0-20180928190104-399ea9e2e55f // indirect
 	github.com/davecgh/go-spew v1.1.1
-	github.com/digitalocean/godo v1.11.0
+	github.com/digitalocean/godo v1.33.0
 	github.com/go-ini/ini v1.39.0 // indirect
 	github.com/golang/groupcache v0.0.0-20180513044358-24b0969c4cb7 // indirect
-	github.com/google/go-querystring v0.0.0-20170111101155-53e6ce116135 // indirect
 	github.com/googleapis/gnostic v0.2.0 // indirect
 	github.com/grpc-ecosystem/grpc-gateway v1.8.5 // indirect
 	github.com/minio/minio-go v6.0.10+incompatible
