@@ -5,6 +5,7 @@
 * Add support for specifying custom load-balancer names (@grzesiek)
 * Support specifying a fake region by environment variable (@timoreimann)
 * Add logging for Create and Update requests to the LB API (@morrislaw)
+* Add support for enabling backend keepalive feature for load balancers, currently in beta (@anitgandhi)
 
 ## v0.1.23 (beta) - Jan 31th 2020
 
